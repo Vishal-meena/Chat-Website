@@ -40,6 +40,6 @@ ACTIVELOOP_TOKEN = ["Your Activeloop Token"]
 To run the streamlit app : 
 
 ```bash
-streamlit run chat website.py
+streamlit run chat-website.py
 ``` 
 
