@@ -1,0 +1,9 @@
+langchain-openai 
+deeplake 
+tiktoken
+selenium
+langchain-community
+langchain-core
+streamlit
+python-dotenv
+# langchainlangchain-community
