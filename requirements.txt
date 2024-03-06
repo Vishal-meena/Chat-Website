@@ -1,6 +1,7 @@
 langchain-openai==0.0.8
 deeplake 
 tiktoken
+langchain
 selenium
 langchain-community
 langchain-core
