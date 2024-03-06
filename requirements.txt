@@ -1,4 +1,4 @@
-pip install --upgrade langchain-openai 
+langchain-openai 
 deeplake 
 tiktoken
 selenium
