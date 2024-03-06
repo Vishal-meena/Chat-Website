@@ -10,8 +10,8 @@ from langchain_core.prompts import ChatPromptTemplate , MessagesPlaceholder
 from langchain_community.document_loaders import WebBaseLoader
 from langchain_core.messages import HumanMessage, SystemMessage
 from dotenv import load_dotenv
-# from langchain_community.chat_models import ChatOpenAI
-from langchain_openai import ChatOpenAI
+from langchain.chat_models import ChatOpenAI
+# from langchain_openai import ChatOpenAI
 from langchain.chains import create_history_aware_retriever,create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 load_dotenv()
