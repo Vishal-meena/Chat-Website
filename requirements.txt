@@ -1,4 +1,4 @@
-langchain-openai 
+upgrade langchain-openai 
 deeplake 
 tiktoken
 selenium
