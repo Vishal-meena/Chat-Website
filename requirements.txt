@@ -1,4 +1,4 @@
-langchain-openai==24.0
+langchain-openai==0.1.9
 deeplake 
 tiktoken
 selenium
