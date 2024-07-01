@@ -27,7 +27,7 @@ def get_vectorstore_from_url(url):
     documents_chunks = text_splitter.split_documents(documents)
     embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
     my_activeloop_org_id = "vishalug3016"
-    my_activeloop_dataset_name = "langchain_course_customer3"
+    my_activeloop_dataset_name = "Brainlox_course_data"
     dataset_path = f"hub://{my_activeloop_org_id}/{my_activeloop_dataset_name}"
     vector_store = DeepLake(dataset_path=dataset_path, embedding_function=embeddings)
     vector_store.add_documents(documents_chunks)
