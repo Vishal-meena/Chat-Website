@@ -1,4 +1,5 @@
-langchain-openai==0.0.8
+langchain-cli
+openai
 beautifulsoup4
 bs4
 deeplake 
