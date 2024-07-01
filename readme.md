@@ -1,5 +1,5 @@
 # Chat with Website - Langchain chatbot with Streamlit GUI
-## You can check it for question answeer:  " https://ethereum.org/en/nft/"
+## You can check it for question answeer:  "https://brainlox.com/courses/category/technical"
 # Feature 
 
 - **Website Interaction** : The Chatbot use the latest version of Langchain to interect with and extract inforamation from the various websites.
@@ -24,7 +24,7 @@ cd [repo - directory]
 Install the required package :
 
 ```bash
-pip insall -r requirements.txt 
+pip install -r requirements.txt 
 ```
 
 create your own .env file with following variables :
